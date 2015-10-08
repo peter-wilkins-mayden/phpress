@@ -2,8 +2,8 @@
 <html lang="en">
 
   <?php
-  include "config.inc";
-  include "includes/head.inc";
+  include "config.inc";    //config file
+  include "includes/head.inc";   // head
   include "includes/database_connect.inc";
   include "parsedown/Parsedown.php";
   ?>
@@ -15,7 +15,7 @@
 	  <div class="container-fluid">
   <div class="row-fluid">
     <div class="span4">
-      <!--Sidebar content-->
+      <!--TODO Sidebar content -->
     </div>
 
 
@@ -23,9 +23,9 @@
       <!--Body content-->
 
 		<?php
-// for files in post folder print the 10 most recent post titles and extract
-//var_dump($db);
-$css = 0;
+// for files in post database print the 10 most recent post titles and extract
+//
+$css = 0;   // change css class each iteration
 $sql = "SELECT id, title, author, summary, date_published FROM posts ORDER BY date_published DESC LIMIT 10;";
 
       $result = $db->query($sql);
@@ -39,14 +39,13 @@ $sql = "SELECT id, title, author, summary, date_published FROM posts ORDER BY da
 			<h2><?= $row["title"] ?></h2>
 			<p><?= "Author " . $row["author"] . ". Published on " . $row["date_published"] ?>.</p>
 			<p><?php
-			print_r($row);
-			echo $row["summery"];
-		 $Parsedown = new Parsedown();
+
+		 $Parsedown = new Parsedown();    // convert markdown to html
 
 		echo  ($Parsedown->text($row["summary"])); ?></p>
 			</div></a>
 			<?php
-			$css++;
+			$css++;   // increment css class
 		}
 ?>
 			<a href="post.php?post=<?= $file ?>">
