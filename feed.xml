@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter&#39;s Mayden Acadamy Blog</title>
+    <description>A Blog following the progress of a Mayden Acadamy trainee software developer and the fascinating things that are discovered on this adventure into the unknown...
+</description>
+    <link>http://peter-wilkins-mayden.github.io/acblog/</link>
+    <atom:link href="http://peter-wilkins-mayden.github.io/acblog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Oct 2015 13:45:25 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2015 13:45:25 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Useful Resources</title>
+        <description>&lt;p&gt;The problem for a beginner is how to ‘boot-strap’ yourself out of ignorance when that ignorance makes it hard to choose the right course.&lt;/p&gt;
+
+&lt;p&gt;Choosing resources when studying to be a web developer is a mine field. There are a lot of how-to’s, and probably also many how-not-to’s. I want to learn the ‘best way’ from the start but with the web there is always the challenge of sorting the wheat from the chaff.&lt;/p&gt;
+
+&lt;p&gt;There are tools like up-voting if the community rates a resource but majority rules doesn’t necessary get the best results. The other flakey way of judging the value of something when you are a beginner is gut instinct which is entirely unscientific. So having said that, here is a list of resources I have chosen to use (and by no means does that mean they are useful).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/course/cs101&quot;&gt;Computer Science 101 Stanford University&lt;/a&gt;
+This one is simple, fun and cleverly uses metaphor to explain some complicated ideas. A great place to start (again).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;htdp.org&quot;&gt;How to design Programs&lt;/a&gt;
+Two good ideas here. Make the language environment simple at the start and build  it’s features inline with the course. Secondly use functional programming from the outset (or am I just a fashion victim?)&lt;/p&gt;
+
+&lt;p&gt;Also check out this unusual book called &lt;a href=&quot;https://mitpress.mit.edu/books/little-schemer&quot;&gt;The Little Schemer&lt;/a&gt; which helps understanding of recursion and all that - good for baking your noodle.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL7664379246A246CB&quot;&gt;Douglas Crockford on JavaScript - 8 lectures&lt;/a&gt;
+Douglas Crockford created JSON, JSLint, JSCheck and much more. He is a entertaining speaker if a little cranky and his philosophy for programming is valuable in my opinion. I recommend his first lecture for it’s historical value and the 8th for the pschological perspective but there are nuggets strew through-out. Sometimes it gets a bit heavy for someone who doesn’t know javascript, I just tuned out till the technical part was over. I’ll be revisiting these videos often when I learn javascript.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/DN4yLZB1vUQ&quot;&gt;Ashley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe&lt;/a&gt;
+Cooky but interesting talk that references way to many philosphers. I’m not sure what she is trying to say but Racket got a mention. yay!&lt;/p&gt;
+
+&lt;p&gt;If you have any comments or advice or want to share a good resource please leave a comment.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/useful-resources</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/useful-resources</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Preparing for Flight</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;How much time do we spend looking into the abyss thinking “My god! What have I   done?”.
+ Douglas Crockford, Javascript guru.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;one-pointed-mind&quot;&gt;One pointed mind&lt;/h1&gt;
+&lt;p&gt;Paragliding preflight checks are very easy to remember to do. The prospect of death has a way of focusing the mind. I would like to achieve a similar state of mind when programming however coding with a sword hanging by a thread over your head is probably counter productive and definitely contravenes UK health and Safety directives.&lt;/p&gt;
+
+&lt;h1 id=&quot;out-of-control&quot;&gt;Out of control&lt;/h1&gt;
+&lt;p&gt;During our first sprint there were moments of despair, hopelessness and even terror. I’d like to share with you with another moment in my life where I felt similarly out of control and abandoned by hope. This is a video of my first landing after I got my paragliding license. Without an instructor guiding me I make a pretty terrible job of it but I do manage to avoid the water. Be warned there is some bad language from the camera woman. enjoy:&lt;/p&gt;
+
+&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/pIiF7u_-5Zo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;lazy-mans-zen&quot;&gt;lazy man’s zen&lt;/h2&gt;
+&lt;p&gt;Riding a motorcycle is called lazy man’s zen because the risk automatically makes you pay more attention. How we bring this focus to coding without water and electrodes I don’t know. Perhaps it is simply a matter of will power but as with all pursuits where error has serious consequences, the survivors will have developed good habits that see them through. So come on you battle scarred veterans of computer carnage, share your secrets with us below….&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/preparing-for-flight</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/preparing-for-flight</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Foot guns</title>
+        <description>&lt;p&gt;Brendan Icke, who created javascript in 10 days, coined the phrase ‘Foot Guns’ to describe practises in programming that are unnecessary and risky. Douglas Crockford, author of JSLint, calls it ‘Danger Driven Development’. He suggests that just because a language lets you do something stupid doesn’t mean you should.&lt;/p&gt;
+
+&lt;p&gt;I’m very happy to have discovered Linters, an invaluable tool for the beginner as they give you warning messages if you are doing something that is generally accepted to be stupid. Brings back fond memories of Microsoft’s abusive paperclip, but much more useful. Here’s a rude message I got today from CSSLint about my current project:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../csslint.jpg&quot; alt=&quot;css lint output&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/foot-guns</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/foot-guns</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Highlight your code using Pigments in Jekyll</title>
+        <description>&lt;h2 id=&quot;how-to-use-pygments-in-jekyll&quot;&gt;How to use Pygments in jekyll.&lt;/h2&gt;
+
+&lt;p&gt;Pygments is a python tool that can apply colors to over 100 different programming syntaxes - really useful if you are writing a blog about learning the basics of all the parts of the stack from HTML to php to javascript and so on.&lt;/p&gt;
+
+&lt;p&gt;In the _config.yml file in your jekyll site folder add the line &lt;code&gt;highlighter: pygments&lt;/code&gt; .&lt;/p&gt;
+
+&lt;p&gt;In your post:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{% highlight php5 startinline True %}
+$result = add_up_scores($test_scores, $BELBIN_CODES);
+{% endhighlight %}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;shows some php code with colors:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php5&quot; data-lang=&quot;php5&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;add_up_scores&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$test_scores&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$BELBIN_CODES&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;More information on the various arguments for different syntaxes can be found  &lt;a href=&quot;http://pygments.org/docs/lexers/#lexers-for-various-text-formats&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you check out my &lt;a href=&quot;http://peter-wilkins-mayden.github.io/acblog/in-scrum-we-trust&quot;&gt;previous post about Belbin 1.0&lt;/a&gt; you will now find only one image. The code snippets are now in &amp;lt;code&amp;gt; tags and you can now cut and paste this code which you couldn’t do when it was an image. Search engines will also read the code so hopefully more people will find my posts and find them useful.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Sep 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/highlight-code-with-pigments-jekyll</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/highlight-code-with-pigments-jekyll</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lessons learned from Sprint 1</title>
+        <description>&lt;h3 id=&quot;scrambled-data&quot;&gt;Scrambled data…&lt;/h3&gt;
+&lt;p&gt;When building the lookup tables I overcomplicated the process by changing the way the data was ordered while Luke simply copied the Belbin table into an array. I had to do a fair bit of mental arithmetic and made several errors in my handwritten work when building the test. Where possible the data structure should mirror the data.&lt;/p&gt;
+
+&lt;h3 id=&quot;school-boy-errors&quot;&gt;School Boy Errors…&lt;/h3&gt;
+&lt;p&gt;When we ‘designed’ the program we did not follow the guideline DRY: Don’t repeat yourself. We built 7 separate pages that did roughly the same job with minor differences. We later realized that this made it difficult and buggy to change a feature across the seven pages so I had a stab at solving the problem….&lt;/p&gt;
+
+&lt;p&gt;On the other hand I had loads of trouble because I put my logic for adding up the scores into a function when it is only ever called once in the whole application. So another rule could be DOC: Don’t over complicate.&lt;/p&gt;
+
+&lt;h3 id=&quot;reinventing-the-wheel&quot;&gt;Reinventing the wheel…&lt;/h3&gt;
+&lt;p&gt;When I tried to refactor the 7 question pages into one I again overcomplicated things. I hit a wall trying to rework the logical flow of the program when Marta had already done it perfectly. ‘All’ I needed to do was replace references to a single question page with code that used used the $question_id to reference the question in the $QUESTIONS array.&lt;/p&gt;
+
+&lt;h3 id=&quot;baby-steps&quot;&gt;Baby Steps…&lt;/h3&gt;
+&lt;p&gt;I also tried to change everything at once and got into a complete muddle that resulted in my brain blowing a fuse. Change one thing at a time - it seems obvious but when ‘this’ is related to ‘that’ there is the temptation to change it all at once. I realize refactoring someone else’s code is a very different skill set to writing something from scratch.&lt;/p&gt;
+
+&lt;h3 id=&quot;dos-and-donts&quot;&gt;Do’s and Don’ts&lt;/h3&gt;
+
+&lt;p&gt;Do:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use loops/code to do the work if there are more than 3 similar elements. Don’t repeat yourself.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Break up the code separate include files if the is a ggood reason such as keeping settings out of the code or to make the code more readable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Put code that is used many times in a function &lt;a href=&quot;http://peter-wilkins-mayden.github.io/acblog/in-scrum-we-trust/&quot;&gt;(just don’t forget about scope!)&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If your stuck, explain your design or code to someone else.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Only change one thing at a time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write pseudo code / start by describing the problem in english&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write unit tests - small simple tests that check the code works.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scramble the data&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reinvent an existing structure / logic / program flow that already works.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Struggle on your own; ask for help on slack or forums (but ask a well formed question!) People love to help if they can. We are very lucky here that we can ask questions on Mayden’s general channel and hopefully someone in the company will know the answer.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 28 Sep 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/lessons-learned-from-sprint-one</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/lessons-learned-from-sprint-one</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Belbin 1.0 has lift off</title>
+        <description>&lt;h2 id=&quot;oh-where-oh-where-has-my-truelove-gone&quot;&gt;Oh where oh where has my $true_Love gone?&lt;/h2&gt;
+
+&lt;p&gt;To my amazement, we have built a functional web application after only 2 days. Following the Scrum principle of Minimum viable product, we have taken ‘our’ shortest route to a product we can show our client and get feedback on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../belbin.jpg&quot; alt=&quot;Our Belbin app&#39;s home page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The challenge was to digitize the &lt;a href=&quot;http://belbin.com&quot;&gt;Belbin Team Roles Test&lt;/a&gt; that we all completed on paper during the interview process for the Academy. It’s an interesting problem because the process of adding up the scores is quite convoluted - the answers have been randomly mixed in terms of the team roles to which they relate.&lt;/p&gt;
+
+&lt;p&gt;I dived into this problem that evening. Luckily I had previously seen a similar problem solved using a lookup table, plus there had been mention of something called arrays a few dozen times from Charlie and Connor. I also had to made up placeholder names of a few functions in PHP as I don’t have broadband at home yet.&lt;/p&gt;
+
+&lt;p&gt;Next morning I found the correct function names, sorted the typos and got some code to run, but not with the results I wanted. I was encouraged by the fact that Luke had come up with a similar solution (albeit one more intuitive to write and easier to read). However my solution stubbornly refused to work as it should.&lt;/p&gt;
+
+&lt;p&gt;The matrix of Belbin role codes(an array of arrays):&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php5&quot; data-lang=&quot;php5&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//  lookup table for belbin scores&lt;/span&gt;
+
+ &lt;span class=&quot;nv&quot;&gt;$BELBIN_CODES&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;RI&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;TW&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CO&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SP&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SH&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;IM&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;ME&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;IM&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CO&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SP&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;RI&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;ME&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SH&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;TW&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;CO&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SH&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;TW&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;RI&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;ME&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;IM&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;TW&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SP&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SH&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;ME&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;IM&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;RI&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CO&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;ME&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;IM&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;TW&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SH&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;RI&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CO&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SP&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;SP&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;TW&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CO&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;ME&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;IM&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SH&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;RI&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;SH&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;ME&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;RI&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;IM&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CO&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SP&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;TW&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php5&quot; data-lang=&quot;php5&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// matrix of test scores&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$test_scores&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Next I call my function and echo the results and what they should be but I don’t get the results I expect….&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php5&quot; data-lang=&quot;php5&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;add_up_scores&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$test_scores&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SH should be  5. SH = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;SH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CF should be 10. CF = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;CF&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;IM should be 12. IM = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;IM&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;CO should be  6. CO = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;CO&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;RI should be 13. RI = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;RI&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;TW should be  5. TW = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;TW&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;PL should be  7. PL = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;PL&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;ME should be 10. ME = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;ME&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;SP should be  2. SP = &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;SP&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;br /&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Here are the disappointing results:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SH should be 5. SH = 0
+CF should be 10. CF = 0
+IM should be 12. IM = 0
+CO should be 6. CO = 0
+RI should be 13. RI = 0
+TW should be 5. TW = 0
+PL should be 7. PL = 0
+ME should be 10. ME = 0
+SP should be 2. SP = 0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Why do all the scores equal zero? whats going wrong? Answers on a postcard…&lt;/p&gt;
+
+&lt;p&gt;It turned out he problem was scope. The scope of a variable is the areas of a program where the variable can be accessed. I had written the main logic of my solution in a function so it could be called whenever needed but in PHP, functions can only see what you pass them in their brackets. I wasn’t giving the function the lookup table arrays so it was giving me a blank result when I performed a lookup code.&lt;/p&gt;
+
+&lt;p&gt;Calling the function, passing it the scores matrix and the Belbin roles matrix:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php5&quot; data-lang=&quot;php5&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;nv&quot;&gt;$result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;add_up_scores&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$test_scores&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$BELBIN_CODES&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;…and we get the correct results, woohoo!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SH should be 5. SH = 5
+CF should be 10. CF = 10
+IM should be 12. IM = 12
+CO should be 6. CO = 6
+RI should be 13. RI = 13
+TW should be 5. TW = 5
+PL should be 7. PL = 7
+ME should be 10. ME = 10
+SP should be 2. SP = 2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A strongly typed language like Java would have saved me from my own ignorance, but PHP was happy to let me hang by my own petard. An important lesson learned, one that will not be forgotten quickly. I learned an incredible amount in the two days, mostly about how much there is to learn and how much fun that is going to be.&lt;/p&gt;
+
+&lt;p&gt;I really enjoyed this project, it was impossible not to work on it every spare hour I had and I am brimming with ideas for Belbin 3.0 (2.0 was already canned due to it being fundamentally flawed). However, I should keep in mind that it’s not about what I want. I’ll have to see what the clients (in this case Mayden) want and plan the next version, if there is one, around that feedback.&lt;/p&gt;
+
+&lt;p&gt;Some of my ideas include
+* put all the instructions, questions and results in an accordian then post all the scores to results.php. No database is required, which is good because are freeMysql account was deleted. We can offer to email the results to the user.
+* write the whole thing in javascript so now there is no need for a server. Export the results as a pdf.
+Interesting thought experiments but PHP, Javascript, Mysql and CSS have enabled us to produce something pretty good, very quickly.&lt;/p&gt;
+
+&lt;p&gt;Another scrum principle is self managing teams. At times I felt quite insecure that nothing would get done if there wasn’t someone ‘experienced’ managing things. Ok, Luke was keeping us on track so we didn’t waste our time completely but I think he gave us enough freedom to say that this application is our own work. It was amazing how everyone in the team dived into what they thought they could do that would be useful and the results speak for themselves.&lt;/p&gt;
+
+&lt;p&gt;I think Scrum’s greatest challenge is accepting that uncertainty. The process was great to see in action, how the chaos (and it was chaotic at times) would build and then suddenly, magically, dispirit parts would join up and we would have a result. The energy in the group was exceptional, although on the last afternoon I did go bibbledy. In Scrum we trust, Amen.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Sep 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/in-scrum-we-trust</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/in-scrum-we-trust</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week one review</title>
+        <description>&lt;p&gt;At the end of week one I feel elated at the amount and quality of information and tools we have learned.&lt;/p&gt;
+
+&lt;p&gt;So what was hot and what was not?&lt;/p&gt;
+
+&lt;h3 id=&quot;setting-up-the-lamp-server-environment&quot;&gt;Setting up the LAMP server environment&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HOT: Vagrant and virtual box and a setup that ‘just works’&lt;/li&gt;
+  &lt;li&gt;NOT: installing three kinds of mysql on my mac and watching them fight over the mysqld.pid file.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;working-with-intergrated-developement-environments&quot;&gt;Working with Intergrated developement environments&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HOT: Playing &lt;a href=&quot;http://www.vimsnake.com/&quot;&gt;vim snake&lt;/a&gt; and &lt;a href=&quot;http://vim-adventures.com/&quot;&gt;vim adventure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NOT: Switching IDE every 5 minutes whenever I hit a roadblock. Just choose one and stick with it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;development-environment-set-up&quot;&gt;Development environment set up&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HOT: Homebrew and npm, infact any package manager that works!&lt;/li&gt;
+  &lt;li&gt;NOT: Oracle’s Mysql installer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;working-with-the-command-line&quot;&gt;Working with the Command Line&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HOT: CodeAcademy’s command line tutorial, customising my bash prompt with pretty colors and git current branch.&lt;/li&gt;
+  &lt;li&gt;NOT: Nothing (gui’s are stoopid)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;information-governance&quot;&gt;Information Governance&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HOT: Paula&lt;/li&gt;
+  &lt;li&gt;NOT: Leaving your laptop on a train.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;covering-the-databases&quot;&gt;Covering the databases&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HOT: muffled snickers everytime someone says ‘INSERT INTO people’&lt;/li&gt;
+  &lt;li&gt;NOT: deleting your whole database with ‘DELETE * ‘&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;create-a-blog-using-jekyll-and-github-pages&quot;&gt;Create a Blog using Jekyll and Github pages&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HOT: Getting a blog setup in about 15 minutes and using git for something real.&lt;/li&gt;
+  &lt;li&gt;NOT: Treehouses tutorial on jekyll - could do with an overview of the subject. Plus it was friday afternoon and I was suffering from a &lt;a href=&quot;http://grillstock.co.uk/blogs/archives/tag/smokestack-burger/&quot;&gt;Smoke Stack&lt;/a&gt; Overflow.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 21 Sep 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/Week-one-review</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/Week-one-review</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why do I want to learn to develop software?</title>
+        <description>&lt;p&gt;I’m 38 years old, I have two boys and I need to change career. The prospect of doing what I was doing for another 30 years was making me depressed. I need a lot of mental simulation or I go nuts. I want to spend my time around smart hardworking people who enjoy what they are doing for a living and also be a smart hardworking person who enjoys what he does for a living.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../family.jpg&quot; alt=&quot;me and my boys&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With a family to support I can’t afford to be unsalaried and certainly can’t afford to get a degree.
+Information Technology changes so fast that there are more opportunities for a career-changer than traditional professions and employers are more open minded about who they hire.&lt;/p&gt;
+
+&lt;p&gt;I had already started a series of online courses based on &lt;a href=&quot;http://www.infoworld.com/article/2614635/application-development/-200k-for-a-computer-science-degree--or-these-free-online-classes-.html&quot;&gt;this Infoworld article&lt;/a&gt; which suggests you can replicate a First Class Computer Science degree using free resources on the web. Perhaps so, but I have definitely landed on my feet getting into Mayden Academy. I can’t put a value on the knowledge and experience I’ve already gained after just one week (and there’s plenty still to come).&lt;/p&gt;
+
+&lt;p&gt;It is also very rewarding studying in a group of intelligent and motivated people and the pace has been fast but not uncomfortable. Luke and Mike have done a great job keeping it fresh and interesting. I think it takes a very focused and determined person to go it alone. My advice is, at the very least, find a mentor to keep you from getting side tracked and wasting your time.&lt;/p&gt;
+
+&lt;p&gt;What do I like about Mayden so far? The focus on working efficiently. I can’t abide wasting time, short term thinking or being busy just for the sake of it. Being a parent teaches you that time is precious. However while people are getting on with the job there is still time for plenty of ‘good craic’. The atmosphere is extremely pleasant and I’m really looking forward to week two.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Sep 2015 00:00:00 +0100</pubDate>
+        <link>http://peter-wilkins-mayden.github.io/acblog/Why-I-am-learning-to-develop-software</link>
+        <guid isPermaLink="true">http://peter-wilkins-mayden.github.io/acblog/Why-I-am-learning-to-develop-software</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

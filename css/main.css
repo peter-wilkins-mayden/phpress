@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+code {
+	font-family: 'Source Code Pro', Arial;
+}
+p {
+	font-size: 18px;
+}
+.background {
+position: fixed;
+z-index: -1;
+width: 120%;
+top: -50px;
+}
+.btn-success{
+	background-color: rgb(89, 128, 246);
+}
+.navbar-right{
+	margin-right: 5px;
+}
+.social{
+		margin: 10px;
+    border: 1px solid #535357;
+    border-radius: 10px;
+    padding: 10px;
+	list-style-type: none;
+}
+img {
+	border: 1px solid #535357;
+	border-radius: 10px;
+	margin: auto;
+	align-self: center;
+	width: 100%;
+}
+.navbar-header{
+	margin-left: 30px;
+	margin-top: 5px;
+
+}
+.logo{
+	margin-left: 30px;
+}
+a {
+text-decoration: none;
+
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.posts {
+	margin: 10px;
+    border: 1px solid #535357;
+    border-radius: 10px;
+    padding: 10px;
+	color: rgb(16, 8, 153);
+	font-family: 'Cabin', sans-serif;;
+
+}
+
+.post0
+{
+background-color: rgba(186, 214, 144, 0.3);
+
+}
+
+.post1
+{
+background-color: rgba(145, 208, 214, 0.3);
+
+}
+.post2
+{
+background-color: rgba(217, 182, 79, 0.3);
+
+}
+.post3
+{
+background-color: rgba(13, 36, 238, 0.3);
+
+}
+.post4
+{
+background-color: rgba(241, 45, 18, 0.3);
+
+}
+.post5
+{
+background-color: rgba(212, 19, 228, 0.3);
+
+}
+.post6
+{
+background-color: rgba(145, 210, 214, 0.3);
+
+}
+
+.post7
+{
+background-color: rgba(230, 241, 14, 0.3);
+
+}
+.post8
+{
+background-color: rgba(17, 195, 99, 0.3);
+
+}
+.post9
+{
+background-color: rgba(27, 33, 111, 0.3);
+
+}
+.post10
+{
+background-color: rgba(196, 227, 152, 0.3);
+}
